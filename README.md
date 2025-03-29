@@ -118,7 +118,3 @@ This project can be deployed to any static site hosting service like Vercel, Net
    ```
 
 2. Deploy the contents of the `dist` directory to your hosting provider.
-
-## License
-
-[Your License Information]
